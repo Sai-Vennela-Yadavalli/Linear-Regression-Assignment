@@ -33,6 +33,8 @@ This repository contains my assignment on **Linear Regression**, focusing on the
 
 ## ✅ Key Learning
 Learned how to implement Linear Regression using scikit-learn
+
 Understood how to split data and fit a model
+
 Practised making predictions with a trained model
 
